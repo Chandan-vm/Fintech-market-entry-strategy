@@ -1,28 +1,42 @@
-# FinTech Market Entry Strategy – Consulting Project
+🚀 FinTech Market Entry Strategy & Competitive Benchmarking (Live Dashboard)
 
-This is a Deloitte-style consulting project analyzing the Indian FinTech lending market using:
+🔗 **Live App:**  
+https://fintech-market-entry-strategy-fszmhy9dubfrlszim9xmfh.streamlit.app/
 
-✔ Market Research  
-✔ Competitor Benchmarking  
-✔ Pricing Analysis  
-✔ Turnaround Time Analysis  
-✔ Recommendations for Market Entry  
+This project performs a consulting-style analysis of the **Indian FinTech lending ecosystem**, including:
 
-The dashboard is built using **Streamlit** and includes:
+🔍 Key Features
+- **Market Research & Industry Analysis**
+- **Competitive Benchmarking** of 8 FinTech players  
+- KPI-based insights: **Market Share, Approval Rates, Turnaround Time, Pricing Models**
+- **Strategic Recommendations** aligned with Deloitte consulting frameworks  
+- Interactive **Streamlit Dashboard** built with Python, Pandas, and Plotly
 
-- Market share visualization  
-- Pricing model comparison  
-- Approval turnaround analysis  
+📊 Dashboard Highlights
+- Market share bar charts  
+- Turnaround time comparison  
+- Pricing model review  
 - SWOT insights  
-- Strategic recommendations  
+- GTM & positioning recommendations  
 
-This project is designed for **consulting, data analysis, and strategy roles**.
-
-## 🚀 Deployment
-This app runs automatically on Streamlit Cloud once deployed.
-
-## 📊 Technologies Used
-- Streamlit  
+🛠 Tech Stack
+- Python  
 - Pandas  
 - Plotly  
-- Python  
+- Streamlit  
+- CSV Dataset  
+
+📁 Project Structure
+/streamlit_app.py
+/competitor_data.csv
+/requirements.txt
+/README.md
+
+🎯 Purpose
+This project was designed to demonstrate:
+- Business Analysis  
+- Market Research  
+- KPI Reporting  
+- Strategic Thinking  
+- Data Visualization  
+- Consulting-style problem solving
