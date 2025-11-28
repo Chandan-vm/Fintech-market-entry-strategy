@@ -1,0 +1,9 @@
+Company,Product,Pricing_Model,Tech_Stack,Target_Segment,Monthly_Active_Users,Approval_Rate,Turnaround_Time,Unique_Features,Market_Share,Rating
+KreditBee,Personal Loan,Interest-based,Python AWS,Young Professionals,500000,74,30 mins,Instant KYC,18,4.2
+CASHe,Short-term Loan,Subscription+Interest,NodeJS GCP,Salaried Employees,350000,68,40 mins,AI Risk Engine,12,4.0
+Navi,Instant Loan,Low-interest,Java Kubernetes,Middle Income,600000,80,25 mins,Zero Processing Fee,20,4.3
+MoneyTap,Credit Line,Usage-based,Python Azure,Urban Users,300000,65,45 mins,Flexible Credit Line,10,3.9
+Slice,Card-based Credit,Merchant Fee,GoLang AWS,GenZ,700000,78,20 mins,Cashback Rewards,22,4.4
+PaySense,EMI Loans,Interest,MongoDB Azure,Middle Income,280000,70,35 mins,Partner EMI Network,8,4.1
+LazyPay,BNPL,Merchant Fee,Java AWS,Online Shoppers,400000,72,28 mins,One-tap Checkout,7,4.0
+ZestMoney,BNPL,EMI+Merchant Fee,Python AWS,Students,320000,60,50 mins,No Credit Score Required,6,3.8
